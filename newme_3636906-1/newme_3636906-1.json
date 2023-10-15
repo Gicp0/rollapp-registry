@@ -1,8 +1,8 @@
 {
   "chainId": "newme_3636906-1",
   "chainName": "K1eng",
-  "rpc": "https://62.141.46.21:26657",
-  "rest": "https://62.141.46.21:1317",
+  "rpc": "https://froopyland.dymension.xyz/13/newme_3636906-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/13/newme_3636906-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x377eaa",
-    "rpc": "https://62.141.46.21:8545"
+    "rpc": "https://froopyland.dymension.xyz/13/newme_3636906-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Celestia",
